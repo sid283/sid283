@@ -1,12 +1,13 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>  
   
 ### <div align="center">I'm Siddalinga, a  Full Stack Web Developer 👨‍💻</div>  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- 📫 Email me at [siddaling.gkoudi@gmail.com](mailto:siddaling.gkoudi@gmail.com).  
 
 <br/>  
 
@@ -43,3 +44,4 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sid283&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid283&count_private=true&theme=radical" alt="sid283" />
