@@ -25,24 +25,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-  
-</div>
-
 </td></tr></table>  
-
 <br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/sid283" target="_blank">
