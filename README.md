@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siddalinga G Koudi</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
+- 👨‍💻 All of my projects are available at [https://siddalingaportfolio-siddalinggkoudi-gmailcom.vercel.app/](https://siddalingaportfolio-siddalinggkoudi-gmailcom.vercel.app/)
+
 - 📫 How to reach me **siddaling.gkoudi@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1U3sN-y-h7h-XUnQWDbVD9SAjZSzeLXJq/view](https://drive.google.com/file/d/1U3sN-y-h7h-XUnQWDbVD9SAjZSzeLXJq/view)
