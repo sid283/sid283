@@ -18,9 +18,7 @@
 
 ## My Skill Set  
 
-<div align="center" style="justify-content:space-between">
-  <img src="https://user-images.githubusercontent.com/95955345/160356186-40ff3ced-dcbc-4e32-a3f5-6320b83d3171.jpg" />
-</div>
+  <img src="https://user-images.githubusercontent.com/95955345/160409758-964841f5-8586-47f3-9b3c-1fe506e81d31.png" />
 
 <br/>  
 
