@@ -13,7 +13,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table border:"0"><tr><td valign="top" width="33%">
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
