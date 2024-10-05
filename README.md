@@ -8,8 +8,7 @@
 ## About me  
 - ❓ Ask me about anything related to MERN stack and related technologies  
 - 📫 Email me at [siddaling.gkoudi@gmail.com](mailto:siddaling.gkoudi@gmail.com).  
-- I am currently learning Full Stack Web Development at Masai School
-- I am looking to work as a Web developer
+- I am currently as a Frontend Developer at Park+
 - Fun fact I love Photography
 - Know more about me <a href="https://siddalingaportfolio.vercel.app/">Portfolio</a>
 
