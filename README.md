@@ -3,7 +3,7 @@
 <img align="center" style="width:30%" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>  
   
-### <div align="center">I'm Siddalinga, a  Full Stack Web Developer 👨‍💻</div>  
+### <div align="center">I'm Siddalinga, a Frontend Developer 👨‍💻</div>  
   
 ## About me  
 - ❓ Ask me about anything related to MERN stack and related technologies  
