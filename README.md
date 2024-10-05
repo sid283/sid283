@@ -3,14 +3,21 @@
 <img align="center" style="width:30%" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>  
   
-### <div align="center">I'm Siddalinga, a Frontend Developer 👨‍💻</div>  
-  
-## About me  
-- ❓ Ask me about anything related to MERN stack and related technologies  
-- 📫 Email me at [siddaling.gkoudi@gmail.com](mailto:siddaling.gkoudi@gmail.com).  
-- I am currently as a Frontend Developer at Park+
-- Fun fact I love Photography
-- Know more about me <a href="https://siddalingaportfolio.vercel.app/">Portfolio</a>
+# 👋 Hi, I'm Siddalinga
+
+I am a **Frontend Engineer (SDE2)** at [Park+](https://www.parkplus.io) with expertise in **MERN stack** and modern web development technologies.
+
+## 💼 About Me
+- 🔧 Specializing in **ReactJS**, **NextJS**, and **TypeScript** to build scalable, high-performance applications.
+- 💡 Passionate about creating seamless user experiences and writing clean, maintainable code.
+- 🎓 Continuously learning and enhancing my frontend development skills.
+- 📸 Outside of coding, I enjoy **photography** and exploring creative outlets.
+
+## 🔗 Let's Connect
+- 💬 Feel free to reach out to me for discussions on frontend technologies, best practices, or anything related to web development.
+- 📧 Email: [siddaling.gkoudi@gmail.com](mailto:siddaling.gkoudi@gmail.com)
+- 🌐 Check out my [Portfolio](#) for more of my work.
+
 
 <br/>  
 
